@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Jessie Andrews",
+    "address": {
+      "line1": "1604 Stevenson Avenue",
+      "city": "Fremont",
+      "state": "CA"
+    },
+    "email": "jessie@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Jan Ewery",
+    "address": {
+      "line1": "16 The Harbor",
+      "city": "Atlanta",
+      "state": "GA"
+    },
+    "email": "jan@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Stevie Hunter",
+    "address": {
+      "line1": "5 The Villas",
+      "city": "Boise",
+      "state": "ID"
+    },
+    "email": "stevie@example.com"
+  }
+]
